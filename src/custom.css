@@ -1,0 +1,11 @@
+.completed {
+    text-decoration: line-through red 3px;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.font-serif {
+  font-family: 'Lora', serif;
+}
